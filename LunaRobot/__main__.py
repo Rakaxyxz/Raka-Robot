@@ -74,9 +74,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-[🌻](https://telegra.ph/file/e38e9af544bafa53a3b3b.jpg) `ʜᴀɪ ᴛʜᴇʀᴇ ɪ'ᴍ` [ʟᴜɴᴀ.](https://t.me/lunatapibot)
+[🌻](https://telegra.ph/file/065bcb9beb2f286f22c61.jpg) `ʜᴀɪ Sayang` [RaxsManage.](https://t.me/RaxsRobot)
 ════════════════════════
-`ʟᴜɴᴀ ɪs sᴘᴇᴄɪᴀʟʟʏ ᴍᴀᴅᴇ ʙʏ` [ᴢᴇɪɴᴢᴏ](https://t.me/zeinzo_1) `ᴛᴏ ᴋᴇᴇᴘ ᴡᴏᴍᴇɴ ᴀᴡᴀʏ ғʀᴏᴍ ᴛʜᴇ ᴍɪʟʟɪᴏɴs ᴏғ ʙᴀᴅ ɢᴜʏs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ`
+`Raxsmanage ɪs sᴘᴇᴄɪᴀʟʟʏ ᴍᴀᴅᴇ ʙʏ` [OWNER](https://t.me/ImThelastKingMs) `ᴛᴏ ᴋᴇᴇᴘ ᴡᴏᴍᴇɴ ᴀᴡᴀʏ ғʀᴏᴍ ᴛʜᴇ ᴍɪʟʟɪᴏɴs ᴏғ ʙᴀᴅ ɢᴜʏs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ`
 ════════════════════════
 `Click the button below to learn more how to use me.`
 ════════════════════════
@@ -85,12 +85,12 @@ PM_START_TEXT = """
 buttons = [
         [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ʟᴜɴᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/lunatapibot?startgroup=true"),
+            text="➕️ Tambahkan Gua Ngentot Ke Grup Lu ➕️", url="t.me/RaxsRobot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="Luna_"),
         InlineKeyboardButton(
-            text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/aboutraks"
+            text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Raxsstory"
         ),
     ],
     [
